@@ -1,0 +1,8 @@
+{
+  "name": "FeelsAppVi: Photo-to-Video AI",
+  "description": "An AI-powered photo to video generator with Tamil and English support. Create avatars, photos, and cinematic videos from your reference images in 60 seconds.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
